@@ -1,0 +1,113 @@
+
+body{
+	background-color: #d3a8cd;
+	margin: 0;
+}
+header{
+	display: flex;
+	height: 80px;
+	background-color: #fcf1f1;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.inicio{
+	transform: scale(1.1);
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+	font-size: 15px;
+}
+.nav .inicio-a{
+	color: #160d13;
+	text-decoration: none;
+	font-size: 700;
+}
+
+.logo{
+	display: flex;
+	align-items: center;
+}
+.logo img{
+	height: 100px;
+	right: 100px;
+	background-color: #49e2e2;
+}
+
+.titulo{
+	color: #cc439c;
+	border-color: #000000;
+	text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+	justify-content: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.foto {
+    align-items: center;
+    margin-left: center;
+}
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+	font-family: Arial, Helvetica, sans-serif
+}
+
+.letras{
+	font-family: Arial, Helvetica, sans-serif;
+	justify-content: center;
+	color: #000000;
+	align-items: center;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-align: justify;
+}
+.contenedor{
+	display: flex;
+	
+}
+.img1{
+	width: 550px;
+	height: 350px;
+}
+.img2{
+	width: 150px;
+	height: 250px;
+}
+.contenedor2{
+	display: flex;
+	
+}
+.img3{
+	width: 550px;
+	height: 450px;
+}
+.img4{
+	width: 550px;
+	height: 450px;
+}
+.donde{
+	color: #a8518a;
+	font-size: 24px;
+	font-family: "Playfair Dislay", serif;
+	line-height: 1.5em;
+	margin-bottom: 30px;
+}
+
+
+.ubi{
+	margin-left: 400px;
+}
+
+.margen{
+	height: 100px;
+	background-color: #49e2e2;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
